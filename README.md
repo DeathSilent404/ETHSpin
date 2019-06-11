@@ -1,2 +1,2 @@
-# ETHSpin.php
+# ETHSpin
 ETHSpin
